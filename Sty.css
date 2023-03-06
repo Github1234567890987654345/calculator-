@@ -1,0 +1,22 @@
+div.b{
+  
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding-top: 20px;
+  padding-left: auto;
+  padding-right: auto;
+  padding-bottom: 30px;
+  
+  text-align: center;
+  background-color: #bf90e3;
+}
+div.c{
+  text-align: center;
+  
+}
+div.z{
+  color: white;
+}
+.inp{
+  caret-color:#f33535;
+}
